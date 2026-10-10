@@ -1,0 +1,11 @@
+{
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".webp","JPG","JPEG", "PNG", "jfif"],
+    "Documents": [".pdf", ".doc", ".docx", ".txt", ".odt"],
+    "Spreadsheets": [".xls", ".xlsx", ".csv", ".ods"],
+    "Presentations": [".ppt", ".pptx", ".odp"],
+    "Videos": [".mp4", ".mkv", ".avi", ".mov"],
+    "Music": [".mp3", ".wav", ".flac", ".aac"],
+    "Archives": [".zip", ".rar", ".7z", ".tar", ".gz"],
+    "Executables": [".exe", ".msi", ".deb", ".appimage"],
+    "Code": [".py", ".js", ".ts", ".html", ".css", ".java", ".cpp", ".c", ".h"]
+}
